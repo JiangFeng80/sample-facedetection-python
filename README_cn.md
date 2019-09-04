@@ -89,7 +89,7 @@
 
 -   **停止Face Detection应用**	
 	
-	执行Face Detection运行脚本后， 应用会处于持续运行状态。若要停止应用程序，可以在UIHost端进入ample-facedetection-python/script目录，切换到root用户
+	执行Face Detection运行脚本后， 应用会处于持续运行状态。若要停止应用程序，可以在UIHost端进入sample-facedetection-python/script目录，切换到root用户
     
         cd sample-facedetection-python/script/
         su root
